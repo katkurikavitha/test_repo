@@ -17,6 +17,8 @@ class ViewController: UIViewController {
 var rashidaButton = UIButton()
     override func viewDidLoad() {
         super.viewDidLoad()
+        var kavithaLabel = UILabel()
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
