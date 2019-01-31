@@ -10,11 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     var btn = UIButton()
-<<<<<<< HEAD
     // added by Kavitha
-=======
     // added by Rashida
->>>>>>> rashida
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
