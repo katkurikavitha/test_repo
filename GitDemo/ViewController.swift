@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     var btn = UIButton()
     // added by Kavitha
     // added by Rashida
+    var kavithaButton = UIButton()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
