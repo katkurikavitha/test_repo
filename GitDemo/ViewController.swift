@@ -9,14 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var btn = UIButton()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-// added by kavitha
-    func testFunc(){
-        
-    }
+
+    
+    //added comment by rashida
 }
 
