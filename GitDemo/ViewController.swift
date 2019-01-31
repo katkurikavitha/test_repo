@@ -15,5 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 // added by kavitha
+    func testFunc(){
+        
+    }
 }
 
