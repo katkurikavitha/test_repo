@@ -19,6 +19,7 @@ var rashidaButton = UIButton()
         super.viewDidLoad()
         var kavithaLabel = UILabel()
         
+        var rashidaLabel = UILabel()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
